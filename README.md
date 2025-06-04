@@ -1,4 +1,4 @@
-# Git Tutorial v1
+# Git Tutorial
 
 This repository documents my journey learning Git version control.
 
